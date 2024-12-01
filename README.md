@@ -8,6 +8,13 @@ DevOps é uma cultura e um conjunto de práticas que integram desenvolvimento (D
 
 O objetivo deste repositório é ajudar pessoas interessadas em iniciar na carreira DevOps, fornecendo uma trilha de aprendizado bem estruturada. Os cursos listados cobrem os conhecimentos fundamentais e avançados necessários para desenvolver habilidades práticas na área.
 
+## Contribuições
+
+Sua opinião é muito importante! Se você conhece cursos melhores ou deseja sugerir a inclusão de novos conteúdos, fique à vontade para abrir uma **issue** ou enviar um **pull request**.  
+Estamos especialmente interessados em sugestões para:  
+- Substituição ou adição de cursos na trilha existente.  
+- Cursos ou conteúdos relacionados à **observabilidade** (monitoramento, logs, tracing, etc.).  
+
 ---
 
 ## Trilha de Cursos
