@@ -61,4 +61,23 @@ Gerencie pacotes Kubernetes com Helm, uma ferramenta poderosa para automação d
 
 ---
 
+## Progresso na Trilha
+
+Use esta tabela para acompanhar seu progresso nos cursos sugeridos. Marque ✅ ao concluir cada curso.
+
+| Curso                        | Status       |
+|------------------------------|--------------|
+| Linux                        | 🔲 A Fazer   |
+| Shell Script                 | 🔲 A Fazer   |
+| Redes                        | 🔲 A Fazer   |
+| Lógica de Programação com Python | 🔲 A Fazer   |
+| GitHub                       | 🔲 A Fazer   |
+| Docker                       | 🔲 A Fazer   |
+| AWS                          | 🔲 A Fazer   |
+| Terraform                    | 🔲 A Fazer   |
+| Kubernetes                   | 🔲 A Fazer   |
+| Helm                         | 🔲 A Fazer   |
+
+---
+
 Esperamos que essa trilha ajude você a iniciar e prosperar na carreira DevOps. Bom aprendizado!
