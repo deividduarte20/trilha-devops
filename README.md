@@ -11,7 +11,7 @@ O objetivo deste repositório é ajudar pessoas interessadas em iniciar na carre
 ## Contribuições
 
 Sua opinião é muito importante! Se você conhece cursos melhores ou deseja sugerir a inclusão de novos conteúdos, fique à vontade para abrir uma **issue** ou enviar um **pull request**.  
-Estamos especialmente interessados em sugestões para:  
+Estou especialmente interessado em sugestões para:  
 - Substituição ou adição de cursos na trilha existente.  
 - Cursos ou conteúdos relacionados à **observabilidade** (monitoramento, logs, tracing, etc.).  
 
