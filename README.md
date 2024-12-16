@@ -61,4 +61,9 @@ Gerencie pacotes Kubernetes com Helm, uma ferramenta poderosa para automação d
 
 ---
 
+Gostou deste repositório?
+
+Se este conteúdo tem sido útil para sua jornada em DevOps, considere dar uma estrela ⭐ neste repositório!
+Seu apoio ajuda a divulgar o projeto e nos motiva a continuar contribuindo com conteúdos de qualidade.
+
 Esperamos que essa trilha ajude você a iniciar e prosperar na carreira DevOps. Bom aprendizado!
