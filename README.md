@@ -45,7 +45,7 @@ Aprenda a criar e gerenciar containers, uma tecnologia essencial para DevOps.
 
 ### AWS
 Explore os serviços da Amazon Web Services, a plataforma de nuvem mais popular do mercado.  
-[AWS Expert](https://www.linuxtips.io/course/aws-expert)
+[AWS na_Pratica](https://www.udemy.com/course/aws-na-pratica/)
 
 ### Terraform
 Automatize a criação e o gerenciamento de infraestrutura como código com Terraform.  
