@@ -43,6 +43,10 @@ Domine o versionamento de código e a colaboração em projetos usando Git e Git
 Aprenda a criar e gerenciar containers, uma tecnologia essencial para DevOps.  
 [Docker do Básico ao Avançado](https://www.udemy.com/course/docker-basico-ao-avancado/?couponCode=ST12MT030524)
 
+### Kubernetes
+Aprenda a orquestrar containers com Kubernetes, essencial para ambientes escaláveis.  
+[Aprenda Kubernetes de Maneira Simples e Rápida](https://www.udemy.com/course/aprenda-kubernetes-de-maneira-simples-e-rapida/?couponCode=ST12MT030524)
+
 ### AWS
 Explore os serviços da Amazon Web Services, a plataforma de nuvem mais popular do mercado.  
 [AWS_na_Pratica](https://www.udemy.com/course/aws-na-pratica/)
@@ -50,10 +54,6 @@ Explore os serviços da Amazon Web Services, a plataforma de nuvem mais popular 
 ### Terraform
 Automatize a criação e o gerenciamento de infraestrutura como código com Terraform.  
 [Terraform do Básico ao Avançado](https://www.udemy.com/course/terraform-do-basico-ao-avancado/?couponCode=ST12MT030524)
-
-### Kubernetes
-Aprenda a orquestrar containers com Kubernetes, essencial para ambientes escaláveis.  
-[Aprenda Kubernetes de Maneira Simples e Rápida](https://www.udemy.com/course/aprenda-kubernetes-de-maneira-simples-e-rapida/?couponCode=ST12MT030524)
 
 ### Helm
 Gerencie pacotes Kubernetes com Helm, uma ferramenta poderosa para automação de deploys.  
